@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcopa_cafe"]=self["webpackChunkcopa_cafe"]||[]).push([[443],{833:function(a,n,c){c.r(n),c.d(n,{default:function(){return l}});var e=c(3396);const u={class:"about"},t=(0,e._)("h1",null,"This is an about page",-1),r=[t];function s(a,n){return(0,e.wg)(),(0,e.iD)("div",u,r)}var o=c(89);const f={},i=(0,o.Z)(f,[["render",s]]);var l=i}}]);
+//# sourceMappingURL=about.7df34c12.js.map
