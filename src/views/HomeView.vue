@@ -237,7 +237,7 @@
                   <div class="col-lg-4 col-md-6 col-xs-12">
                     <!-- Message -->
                     <div class="right-text">
-                      <h2>Hours</h2>
+                      <h2>ساعتها</h2>
                       <hr>
                       <p>شنبه تا چهارشنبه : 7:30  - 11:30 </p>
                       <p>پنجشنبه و جمعه : 8:00  - 9:00 </p>
@@ -295,16 +295,15 @@
       <div class="text-content container">
         <div class="col-md-6">
           <span class="social_heading">دنبال کنید</span>
-          <ul class="social_icons">
-            <li><a class="icon-twitter color_animation" href="#" target="_blank"></a></li>
-            <li><a class="icon-github color_animation" href="#" target="_blank"></a></li>
-            <li><a class="icon-linkedin color_animation" href="#" target="_blank"></a></li>
-            <li><a class="icon-mail color_animation" href="#"></a></li>
+          <ul class="social_icons" style="justify-items: center">
+            <li><a class="icon icon-twitter color_animation" href="#" target="_blank"></a></li>
+            <li><a class="icon icon-linkedin color_animation" href="#" target="_blank"></a></li>
+            <li><a class="icon icon-mail color_animation" href="#"></a></li>
           </ul>
         </div>
         <div class="col-md-4">
           <span class="social_heading">یا تماس بگیرید</span>
-          <span class="social_info"><a class="color_animation" href="tel:883-335-6524">(941) 883-335-6524</a></span>
+          <span class="social_info"><a class="color_animation" dir="ltr" href="tel:883-335-6524">(+98) 883-335-6524</a></span>
         </div>
       </div>
     </section>
@@ -359,14 +358,9 @@
 
     <footer class="sub_footer">
       <div class="container">
-        <div class="col-md-4"><p class="sub-footer-text text-center">&copy; Restaurant 2014, Theme by <a
-            href="https://themewagon.com/">ThemeWagon</a></p></div>
-        <div class="col-md-4"><p class="sub-footer-text text-center">Back to <a href="#top">TOP</a></p>
-        </div>
-        <div class="col-md-4"><p class="sub-footer-text text-center">Built With Care By <a href="#"
-                                                                                           target="_blank">Us</a></p>
-        </div>
+          <p class="sub-footer-text text-right ">&copy; کلیه حقوق این وبسایت متعلق به کوپا کافه است </p>
       </div>
+
     </footer>
 
 

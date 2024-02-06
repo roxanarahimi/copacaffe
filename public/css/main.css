@@ -15,9 +15,13 @@ GLOBAL
 body,html {
     direction: rtl !important;
     text-align: right !important;
+    scroll-behavior: smooth;
 }
-* {
-    font-family: IRANSansWebFaNum !important;
+*:not(.fa) {
+    font-family: IranSans !important;
+}
+.icon{
+    font-family: 'icomoon' !important;
 }
 h1 {
     font-size: 37px;
